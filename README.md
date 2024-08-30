@@ -1,10 +1,10 @@
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=48CDDC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
-    <a >"Every end is a new beginning"</a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
+    <a >"I never dreamed about succes I worked for it"</a>
 
 <p/>
 
-<img align="right" alt="coding" width="310" src="https://www.shecodes.io/assets/stickers/Coding%20Cat-33a4c846a433857177d26ef9f045782650a52602b8e1bfc1a58058625cf90029.gif">
+<img align="right" alt="coding" width="310" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 
 <hr widht="100%">
@@ -14,59 +14,10 @@
  -  🌱 I'm a cloud computing student learning DevOps
  - 🔭 I’m currently working on <strong style="color:red;">[Wellton](https://wellton.fr/)</strong>
  - 📫 How to reach me ayari.nessrine3@gmail.com
- - 👨‍💻 Get a peek at a few of my projects :
-<table style="width:100%" align="left">
 
- <tr>
 
- <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
-          </a></td>
- <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
-    </a>   </td>
-<td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.eneahome.com/icons/logo.png" width="60" height="40"/>
-          </a></td>
-
- <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.ab-engineering.fr/assets/logo3.png" width="40" align="center" height="50"/>
-          </a></td> 
-          <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://www.luxury-and-cosy.com/assets/Logo.png" width="40" height="40"/>
-    </a></td>
-          
-      
-  </tr>
-  <tr>
-       <td colspan="10" align="left"> <a href="https://darkred-echidna-655124.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://darkred-echidna-655124.hostingersite.com/assets/images/logo.png" width="70"  height="35"/>
-          </a></td>
-
-  <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.open-mur.com/assets/logo-op.png" width="60"  height="50"/>
-          </a></td>
- <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://global-reno.com/assets/reno-global-logo.png" width="73" height="28"/>
-          </a></td> 
- <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.png" width="60" height="25"/>
-          </a></td>
-  
  
-  <td colspan="10" align="left"> <a href="https://luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="60" height="40"/>
-          </a></td>   
-
-
-
-
-   
-  </tr> 
  
-  
-  </table>
-
 
 
 
