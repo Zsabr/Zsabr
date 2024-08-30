@@ -1,5 +1,5 @@
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Zahra+Sabri;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
     <a >"I never dreamed about succes I worked for it"</a>
 
 <p/>
@@ -13,7 +13,7 @@
  - 💬 Ask me about *anything related to MERN stack and related technologies*
  -  🌱 I'm a cloud computing student learning DevOps
  - 🔭 I’m currently working on <strong style="color:red;">[Wellton](https://wellton.fr/)</strong>
- - 📫 How to reach me ayari.nessrine3@gmail.com
+ - 📫 How to reach me zahrasabri209@gmail.com
 
 
  
