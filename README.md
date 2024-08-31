@@ -12,7 +12,7 @@
 
  - 💬 Ask me about *anything related to MERN stack and related technologies*
  -  🌱 I'm a cloud computing student learning DevOps
- - 🔭 I’m currently working on <strong style="color:red;">[Wellton](https://wellton.fr/)</strong>
+ - 🔭 I’m currently working on 
  - 📫 How to reach me zahrasabri209@gmail.com
 
 
