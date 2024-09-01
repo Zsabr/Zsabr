@@ -34,11 +34,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-    </td>
+    
     <td align="center" >
     
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
@@ -51,11 +47,7 @@
      <td align="center" >  <a href="https://www.docker.com/" target="_blank"  title="Docker" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
      </td>
-    <td align="center" >
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="React Redux" width="40" height="40"/>
-      </a>
-    </td>
+    
     <td align="center" >
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" title="Angular"/>
@@ -87,6 +79,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40"/>
       </a>
     </td>
+    <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" />
+      </td>
   </tr>
 
   <tr>
@@ -122,9 +117,7 @@
        <td align="center" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" title="Oracle" />
     </td>
-       <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" />
-    </td>
+      
  <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40"/>
@@ -177,9 +170,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" title="Postman" height="40"/>
       </a>
     </td>
-    <td align="center" >
-     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" width="40" height="40"/> </a>
-    </td>
+   
  <td align="center" >
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  title="Linux" alt="linux" width="40" height="40"/>
