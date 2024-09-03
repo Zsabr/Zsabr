@@ -3,11 +3,8 @@
     <a >"I never dreamed about succes I worked for it"</a>
 
 <p/>
-
 <img align="right" alt="coding" width="310" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
-
 <hr widht="100%">
-
 
  - 💬 Ask me about *anything related to MERN stack and related technologies*
  -  🌱 I'm a cloud computing student learning DevOps
