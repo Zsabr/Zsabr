@@ -1,7 +1,6 @@
 <a >
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Zahra+Sabri;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
     <a >"I never dreamed about succes I worked for it"</a>
-
 <p/>
 <img align="right" alt="coding" width="310" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 <hr widht="100%">
