@@ -6,10 +6,9 @@
 <hr widht="100%">
 
  - 💬 Ask me about *anything related to MERN stack and related technologies*
- -  🌱 I'm a cloud computing student learning DevOps
+ - 🌱 I'm a cloud computing student learning DevOps
  - 🔭 I’m currently working on 
  - 📫 How to reach me zahrasabri209@gmail.com
-
 
  
  
