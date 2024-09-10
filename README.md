@@ -11,13 +11,9 @@
  - 📫 How to reach me zahrasabri209@gmail.com
 
  
- 
-
 
 
 <hr width="100%">
-
-
 
 <table style="width:100%" align="center">
 
