@@ -4,7 +4,6 @@
 <p/>
 <img align="right" alt="coding" width="310" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 <hr widht="100%">
-
  - 💬 Ask me about *anything related to MERN stack and related technologies*
  - 🌱 I'm a cloud computing student learning DevOps
  - 🔭 I’m currently working on 
@@ -25,8 +24,7 @@
       </a>
     </td>
      <td align="center">
-    
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
       
  </td>
   
