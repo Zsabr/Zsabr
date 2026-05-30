@@ -1,8 +1,8 @@
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Zahra+Sabri;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Zahra+Sabri;💻+I%27m+a+Full+stack+developer;" alt="zahra" /></a>
     <a >"I never dreamed about succes I worked for it"</a>
 <p/>
-<img align="right" alt="coding" width="310" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="coding" width="310" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 <hr widht="100%">
     
  - 💬 Ask me about anything related to MERN stack and related technologies
