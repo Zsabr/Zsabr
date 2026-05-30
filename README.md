@@ -12,8 +12,10 @@
 
 <hr>
 
-<!-- <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
-<img align="right" alt="Developer Girl" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👩‍💻 About Me
+
 - 🎓 Cloud Computing Student
 - 💻 Full Stack Developer passionate about web technologies
 - 🌱 Currently learning **DevOps, Kubernetes, Jenkins, ArgoCD & Terraform**
@@ -62,11 +64,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zsabr&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zsabr&theme=tokyonight&row=1&column=7" />
-</p>
 
 ### 🌐 Connect With Me
 
@@ -77,7 +75,7 @@
   <a href="https://github.com/Zsabr">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="www.linkedin.com/in/sabri-zahra-8769bb253">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
