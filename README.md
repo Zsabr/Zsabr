@@ -13,8 +13,7 @@
 <hr>
 
 <!-- <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
-<img align="right" alt="Anime Girl Coding" width="380" src="https://media.tenor.com/L8K62iTDkEsAAAAC/anime-computer.gif">
-
+<img align="right" alt="Developer Girl" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 - 🎓 Cloud Computing Student
 - 💻 Full Stack Developer passionate about web technologies
 - 🌱 Currently learning **DevOps, Kubernetes, Jenkins, ArgoCD & Terraform**
