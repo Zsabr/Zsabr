@@ -73,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="www.linkedin.com/in/sabri-zahra-8769bb253">
+  <a href="https://www.linkedin.com/in/sabri-zahra-8769bb253">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
