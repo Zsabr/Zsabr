@@ -72,9 +72,7 @@
   <a href="mailto:zahrasabri209@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/Zsabr">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+
   <a href="www.linkedin.com/in/sabri-zahra-8769bb253">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
