@@ -35,6 +35,11 @@
     <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="50" height="40"/>
  </a>
  </td> 
+    <tr>
+    <td colspan="10" align="left"> <a href="https://www.enea-construction.com/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" width="50" height="40"/>
+ </a>
+ </td>
  <td colspan="10" align="left"> <a href="https://www.sybernetys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
  </a>
