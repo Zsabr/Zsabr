@@ -36,6 +36,9 @@
     <a href="https://www.enea-construction.com/" target="_blank">
         <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:60px;">
     </a>
+     <a href="https://www.enea-construction.com/" target="_blank">
+        <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:60px;">
+    </a>
     <a href="https://www.sybernetys-international.com/" target="_blank">
         <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" alt="Sybernetys International" style="height:60px;">
     </a>
