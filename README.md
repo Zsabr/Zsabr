@@ -31,6 +31,10 @@
 
 <table style="width:100%" align="center">
  <tr>
+    <td colspan="10" align="left"> <a href="https://www.mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="50" height="40"/>
+ </a>
+ </td> 
  <td colspan="10" align="left"> <a href="https://www.sybernetys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
  </a>
