@@ -33,8 +33,14 @@
     <a href="https://www.mur-mur.fr/" target="_blank">
         <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:60px;">
     </a>
+    <a href="https://www.linkea-consulting.fr/" target="_blank">
+        <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" alt="linkea" style="height:60px;">
+    </a>
+     <a href="http://utopik-communication.fr/" target="_blank">
+        <img src="https://utopik-communication.fr/assets/icons/logo.webp" alt="utopik-communication" style="height:60px;">
+    </a>
     <a href="http://strategys-tunisie.com/" target="_blank">
-        <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" alt="ENEA Construction" style="height:60px;">
+        <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" alt="strategys-tunisie" style="height:60px;">
     </a>
      <a href="https://www.enea-construction.com/" target="_blank">
         <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:60px;">
