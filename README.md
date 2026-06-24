@@ -29,45 +29,30 @@
 ## 🌐 My Websites 
 
 
-<table style="width:100%; border-collapse:collapse; text-align:center;">
-    <tr>
-        <td style="padding:15px;">
-            <a href="https://www.mur-mur.fr/" target="_blank">
-                <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-        <td style="padding:15px;">
-            <a href="https://www.enea-construction.com/" target="_blank">
-                <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-        <td style="padding:15px;">
-            <a href="https://www.sybernetys-international.com/" target="_blank">
-                <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" alt="Sybernetys International" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-        <td style="padding:15px;">
-            <a href="https://www.klass-design.fr/" target="_blank">
-                <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" alt="Klass Design" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-        <td style="padding:15px;">
-            <a href="https://www.renov-en-main.fr/" target="_blank">
-                <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" alt="Renov en Main" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-        <td style="padding:15px;">
-            <a href="https://www.mur-et-tremie.com/" target="_blank">
-                <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="Mur et Trémie" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-        <td style="padding:15px;">
-            <a href="https://www.ikonoklass.fr/" target="_blank">
-                <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" alt="Ikonoklass" style="height:50px; max-width:120px;">
-            </a>
-        </td>
-    </tr>
-</table>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:30px;">
+    <a href="https://www.mur-mur.fr/" target="_blank">
+        <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:60px;">
+    </a>
+    <a href="https://www.enea-construction.com/" target="_blank">
+        <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:60px;">
+    </a>
+    <a href="https://www.sybernetys-international.com/" target="_blank">
+        <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" alt="Sybernetys International" style="height:60px;">
+    </a>
+    <a href="https://www.klass-design.fr/" target="_blank">
+        <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" alt="Klass Design" style="height:60px;">
+    </a>
+    <a href="https://www.renov-en-main.fr/" target="_blank">
+        <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" alt="Renov en Main" style="height:60px;">
+    </a>
+    <a href="https://www.mur-et-tremie.com/" target="_blank">
+        <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="Mur et Trémie" style="height:60px;">
+    </a>
+    <a href="https://www.ikonoklass.fr/" target="_blank">
+        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" alt="Ikonoklass" style="height:60px;">
+    </a>
+
+</div>
 -------
 
 ### 🛠️ Tech Stack
