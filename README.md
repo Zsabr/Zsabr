@@ -33,6 +33,9 @@
     <a href="https://www.mur-mur.fr/" target="_blank">
         <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:60px;">
     </a>
+   <a href="https://www.agexea-energie.com/" target="_blank">
+        <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" alt="agexea-energie" style="height:60px;">
+    </a>
     <a href="https://www.linkea-consulting.fr/" target="_blank">
         <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" alt="linkea" style="height:60px;">
     </a>
