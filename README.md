@@ -24,80 +24,40 @@
 - 📫 Reach me at: **zahrasabri209@gmail.com**
 
 <br><br>
- <table style="width:100%" align="left">
+-------
+
+## 🌐 My Websites 
+
+
+<table style="width:100%" align="center">
  <tr>
-     <td colspan="10" align="left"> <a href="https://piscineo-tunisie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://piscineo-tunisie.com/assets/images/piscineo.svg" width="70" height="40"/>
-          </a></td>
- <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
-          </a></td>
- <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
-    </a>   </td>
-<td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
-          </a></td>  
-      <td colspan="10" align="left"> <a href="https://ab-pro.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://ab-pro.fr/assets/images/logo.webp" width="70"  height="35"/>
-          </a></td>
+ <td colspan="10" align="left"> <a href="https://www.sybernetys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
+ </a>
+ </td>  
 
+   <td colspan="10" align="left"> <a href="https://www.klass-design.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="50" height="40"/>
+   </a>
+   </td>
 
- <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25"/>
-          </a></td>
-               <td colspan="10" align="left"> <a href="https://www.ingenerium.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.ingenerium.fr/images/navbar-logo.webp" width="60"  height="35"/>
-          </a></td>
+  <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="50" height="40"/>
+   </a>
+  </td>
+
+  <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="50" height="40"/>
+  </a>
+  </td>
+   <td colspan="10" align="left"> <a href="https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="50" height="40"/>
+  </a>
+  </td>
  </tr>
-   <tr>
-            <td colspan="10" align="left"> <a href="https://www.maison-presto.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" width="60"  height="35"/>
-          </a></td>
-        <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
-          </a></td>
-         <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo-footer.webp" width="70"  height="35"/>
-          </a></td>   
-       <td colspan="10" align="left"> <a href="https://ab-pro.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://ab-pro.fr/assets/images/logo.webp" width="70"  height="35"/>
-          </a></td>
-        <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.ab-engineering.fr/assets/logo.webp" width="70" align="center" height="50"/>
-          </a></td> 
-            <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60"  height="35"/>
-          </a></td>
-            <td colspan="10" align="left"> <a href="https://www.agexea-energie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" width="60"  height="35"/>
-          </a></td>
- </tr>
-  <tr>
-        <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
-          </a></td>
-              <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
-          </a>
-        </td>
+</table>
 
- <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
-          </a></td>
-            <td colspan="10" align="left"> <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="70"  height="40"/>
-          </a></td>
-
-  <td colspan="10" align="left"> <a href="https://ghostwhite-beaver-862090.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://ghostwhite-beaver-862090.hostingersite.com/assets/icons/logo.webp" width="70"  height="30"/>
-          </a></td>
- <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" width="70" height="35"/>
-    </a></td>
-  </tr> 
-  </table>
-
+-------
 
 ### 🛠️ Tech Stack
 
