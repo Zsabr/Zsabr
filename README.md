@@ -30,8 +30,56 @@
 
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:30px;">
+     <a href="https://www.maison-presto.com/" target="_blank">
+        <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" alt="maison-presto" style="height:60px;">
+    </a>
     <a href="https://www.mur-mur.fr/" target="_blank">
         <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:60px;">
+    </a>
+   <a href="https://www.architectis.fr/" target="_blank">
+        <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" alt="architectis" style="height:60px;">
+    </a>
+    <a href="https://www.mur-et-tremie.com/" target="_blank">
+        <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="mur-et-tremie" style="height:60px;">
+    </a>
+  <a href="https://www.mesmurs.fr/" target="_blank">
+        <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" alt="mesmurs" style="height:60px;">
+    </a>
+  <a href="https://www.open-mur.com/" target="_blank">
+        <img src="https://www.open-mur.com/assets/logo-op.webp" alt="open-mur" style="height:60px;">
+    </a>
+    <a href="https://enirop.com/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a
+        <a href="https://www.inchaate.fr/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a>
+    <a href="https://www.finky-consulting.com/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a>
+    <a href="https://cleenea-net.com/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a>
+    <a href="https://www.cekterys.com/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a>
+    <a href="https://sopranet.com/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a>
+    <a href="https://reno-deco.fr/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+    </a>
+    <a href="https://1001-architectures.com/" target="_blank">
+        <img src="https://1001-architectures.com/assets/icons/logo.webp" alt="1001-architectures" style="height:60px;">
+    </a>
+    <a href="https://www.eneahome.com/" target="_blank">
+        <img src="https://www.eneahome.com/icons/logo.webp" alt="eneahome" style="height:60px;">
+    </a>
+   <a href="https://www.ab-engineering.fr/" target="_blank">
+        <img src="https://www.ab-engineering.fr/assets/logo-white.webp" alt="ab-engineering" style="height:60px;">
+    </a>
+   <a href="https://www.agexis.com/" target="_blank">
+        <img src="https://www.agexis.com/assets/icons/logo-agex.webp" alt="agexis" style="height:60px;">
     </a>
    <a href="https://www.agexea-energie.com/" target="_blank">
         <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" alt="agexea-energie" style="height:60px;">
@@ -57,11 +105,11 @@
     <a href="https://www.renov-en-main.fr/" target="_blank">
         <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" alt="Renov en Main" style="height:60px;">
     </a>
-    <a href="https://www.mur-et-tremie.com/" target="_blank">
-        <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="Mur et Trémie" style="height:60px;">
-    </a>
     <a href="https://www.ikonoklass.fr/" target="_blank">
         <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" alt="Ikonoklass" style="height:60px;">
+    </a>
+     <a href="https://www.wellton-consulting.com/" target="_blank">
+        <img src="https://www.wellton-consulting.com/assets/images/logo.webp" alt="wellton" style="height:60px;">
     </a>
 
 </div>
