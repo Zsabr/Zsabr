@@ -24,15 +24,8 @@
 - 📫 Reach me at: **zahrasabri209@gmail.com**
 
 <br><br>
-
-
-## 🌐 My Websites 
-<!-- TABLEAU DES PROJETS - Profil GitHub -->
-<!-- TABLEAU DES PROJETS AVEC NOMS - Profil GitHub -->
-<!-- Tableau des projets - Version complète -->
 <div align="center">
-  <h2>🚀 Projets Réalisés</h2>
-  <p><i>22 sites web développés</i></p>
+  <h2> Projets Réalisés</h2>
   <br>
 </div>
 
