@@ -27,251 +27,167 @@
 
 
 ## 🌐 My Websites 
+<!-- TABLEAU DES PROJETS - Profil GitHub -->
+<div align="center">
+  <br>
+  <h2>🚀 Projets Réalisés</h2>
+  <p><i>Découvrez les sites web que j'ai développés</i></p>
+  <br>
+</div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.maison-presto.com/" target="_blank">
+        <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" alt="Maison Presto" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.mur-mur.fr/" target="_blank">
+        <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.architectis.fr/" target="_blank">
+        <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" alt="Architectis" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.mur-et-tremie.com/" target="_blank">
+        <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="Mur et Trémie" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.mesmurs.fr/" target="_blank">
+        <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" alt="Mes Murs" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.open-mur.com/" target="_blank">
+        <img src="https://www.open-mur.com/assets/logo-op.webp" alt="Open Mur" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://enirop.com/" target="_blank">
+        <img src="https://www.enirop.com/assets/images/Logo-enirop.webp" alt="Enirop" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.inchaate.fr/" target="_blank">
+        <img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" alt="Inchaate" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.finky-consulting.com/" target="_blank">
+        <img src="https://www.finky-consulting.com/assets/icons/cercle.webp" alt="Finky Consulting" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://sopranet.com/" target="_blank">
+        <img src="https://www.sopranet.com/assets/images/home/logo-sopranet.webp" alt="Sopranet" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://reno-deco.fr/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="Reno Deco" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://1001-architectures.com/" target="_blank">
+        <img src="https://1001-architectures.com/assets/icons/logo.webp" alt="1001 Architectures" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.eneahome.com/" target="_blank">
+        <img src="https://www.eneahome.com/icons/logo.webp" alt="Enea Home" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.ab-engineering.fr/" target="_blank">
+        <img src="https://www.ab-engineering.fr/assets/logo-white.webp" alt="AB Engineering" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.agexis.com/" target="_blank">
+        <img src="https://www.agexis.com/assets/icons/logo-agex.webp" alt="Agexis" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.agexea-energie.com/" target="_blank">
+        <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" alt="Agexea Energie" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkea-consulting.fr/" target="_blank">
+        <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" alt="Linkea Consulting" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="http://utopik-communication.fr/" target="_blank">
+        <img src="https://utopik-communication.fr/assets/icons/logo.webp" alt="Utopik Communication" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="http://strategys-tunisie.com/" target="_blank">
+        <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" alt="Strategys Tunisie" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.enea-construction.com/" target="_blank">
+        <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.sybernetys-international.com/" target="_blank">
+        <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" alt="Sybernetys International" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.klass-design.fr/" target="_blank">
+        <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" alt="Klass Design" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.renov-en-main.fr/" target="_blank">
+        <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" alt="Renov en Main" width="140">
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.ikonoklass.fr/" target="_blank">
+        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" alt="Ikonoklass" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.wellton-consulting.com/" target="_blank">
+        <img src="https://www.wellton-consulting.com/assets/images/logo.webp" alt="Wellton Consulting" width="140">
+      </a>
+    </td>
+    <td align="center" width="200" colspan="3">
+      <br>
+      <b>✨ 22 projets réalisés</b>
+      <br><br>
+      <i>Développement web • Design • Intégration</i>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
-<!-- Section Projets GitHub -->
-<div style="
-    padding: 40px 20px;
-    background: linear-gradient(145deg, #f8faff 0%, #eef2f7 100%);
-    border-radius: 24px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.08);
-    margin: 40px auto;
-    max-width: 1200px;
-">
-    <!-- En-tête de section -->
-    <div style="
-        text-align: center;
-        margin-bottom: 40px;
-        position: relative;
-    ">
-        <span style="
-            display: inline-block;
-            background: linear-gradient(135deg, #4a6cf7, #6a4cf7);
-            color: white;
-            padding: 6px 18px;
-            border-radius: 50px;
-            font-size: 12px;
-            font-weight: 600;
-            letter-spacing: 1.5px;
-            text-transform: uppercase;
-            margin-bottom: 12px;
-        ">Mon Portfolio</span>
-        <h2 style="
-            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-            font-size: 28px;
-            font-weight: 700;
-            color: #1a2332;
-            margin: 0 0 8px 0;
-        ">Projets Réalisés</h2>
-        <p style="
-            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-            color: #5a6a7a;
-            font-size: 15px;
-            margin: 0;
-        ">Découvrez les sites web que j'ai développés</p>
-        <div style="
-            width: 60px;
-            height: 4px;
-            background: linear-gradient(90deg, #4a6cf7, #6a4cf7);
-            border-radius: 4px;
-            margin: 16px auto 0;
-        "></div>
-    </div>
-    <!-- Grille de logos -->
-    <div style="
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-        gap: 20px 20px;
-        justify-items: center;
-        align-items: center;
-    ">
-        <a href="https://www.maison-presto.com/" target="_blank" 
-           style="
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                width: 100%;
-                height: 80px;
-                background: white;
-                border-radius: 16px;
-                padding: 12px 8px;
-                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-                box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-                border: 1px solid rgba(0,0,0,0.03);
-                text-decoration: none;
-           "
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" alt="Maison Presto" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.mur-mur.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.architectis.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" alt="Architectis" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.mur-et-tremie.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="Mur et Trémie" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.mesmurs.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" alt="Mes Murs" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.open-mur.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.open-mur.com/assets/logo-op.webp" alt="Open Mur" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://enirop.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.enirop.com/assets/images/Logo-enirop.webp" alt="Enirop" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.inchaate.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" alt="Inchaate" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.finky-consulting.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.finky-consulting.com/assets/icons/cercle.webp" alt="Finky Consulting" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://sopranet.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.sopranet.com/assets/images/home/logo-sopranet.webp" alt="Sopranet" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://reno-deco.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="Reno Deco" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://1001-architectures.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://1001-architectures.com/assets/icons/logo.webp" alt="1001 Architectures" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.eneahome.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.eneahome.com/icons/logo.webp" alt="Enea Home" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.ab-engineering.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.ab-engineering.fr/assets/logo-white.webp" alt="AB Engineering" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.agexis.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.agexis.com/assets/icons/logo-agex.webp" alt="Agexis" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.agexea-energie.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" alt="Agexea Energie" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.linkea-consulting.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" alt="Linkea Consulting" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="http://utopik-communication.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://utopik-communication.fr/assets/icons/logo.webp" alt="Utopik Communication" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="http://strategys-tunisie.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" alt="Strategys Tunisie" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.enea-construction.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.sybernetys-international.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" alt="Sybernetys International" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.klass-design.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" alt="Klass Design" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.renov-en-main.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" alt="Renov en Main" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.ikonoklass.fr/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" alt="Ikonoklass" style="height:40px; max-width:100%; object-fit:contain;">
-        </a>
-        <a href="https://www.wellton-consulting.com/" target="_blank" 
-           style="display:flex; justify-content:center; align-items:center; width:100%; height:80px; background:white; border-radius:16px; padding:12px 8px; transition:all 0.3s cubic-bezier(0.4,0,0.2,1); box-shadow:0 2px 8px rgba(0,0,0,0.04); border:1px solid rgba(0,0,0,0.03); text-decoration:none;"
-           onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 28px rgba(74,108,247,0.15)'; this.style.borderColor='rgba(74,108,247,0.2)'"
-           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.04)'; this.style.borderColor='rgba(0,0,0,0.03)'"
-        >
-            <img src="https://www.wellton-consulting.com/assets/images/logo.webp" alt="Wellton Consulting" style="
+<br>
+<div align="center">
+  <sub>⬆️ Cliquez sur un logo pour visiter le site</sub>
+</div>
 -------
 
 ### 🛠️ Tech Stack
