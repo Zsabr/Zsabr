@@ -49,22 +49,22 @@
         <img src="https://www.open-mur.com/assets/logo-op.webp" alt="open-mur" style="height:60px;">
     </a>
     <a href="https://enirop.com/" target="_blank">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+        <img src="https://www.enirop.com/assets/images/Logo-enirop.webp" alt="enirop" style="height:60px;">
     </a
         <a href="https://www.inchaate.fr/" target="_blank">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+        <img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" alt="inchaate" style="height:60px;">
     </a>
     <a href="https://www.finky-consulting.com/" target="_blank">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+        <img src="https://www.finky-consulting.com/assets/icons/cercle.webp" alt="finky" style="height:60px;">
     </a>
-    <a href="https://cleenea-net.com/" target="_blank">
+    <!-- <a href="https://cleenea-net.com/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="cleenea-net" style="height:60px;">
+    </a> -->
+    <!-- <a href="https://www.cekterys.com/" target="_blank">
         <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
-    </a>
-    <a href="https://www.cekterys.com/" target="_blank">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
-    </a>
+    </a> -->
     <a href="https://sopranet.com/" target="_blank">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
+        <img src="https://www.sopranet.com/assets/images/home/logo-sopranet.webp" alt="sopranet" style="height:60px;">
     </a>
     <a href="https://reno-deco.fr/" target="_blank">
         <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="reno-deco" style="height:60px;">
