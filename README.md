@@ -24,9 +24,7 @@
 - 📫 Reach me at: **zahrasabri209@gmail.com**
 
 <br><br>
-<div align="center">
-<h2> Projets Réalisés</h2>
-</div>
+### 🌐 My Projects 💻
 
 <table style="width:100%; border-collapse: collapse; max-width: 1200px; margin: 0 auto;" align="center">
   
@@ -226,7 +224,3 @@
 </p>
 
 <hr>
-
-<p align="center">
-  ⭐ <b>Building scalable applications with passion and continuous learning.</b>
-</p>
