@@ -25,169 +25,151 @@
 
 <br><br>
 <div align="center">
-  <h2> Projets Réalisés</h2>
-  <br>
+<h2> Projets Réalisés</h2>
 </div>
 
-<table style="width:100%; border-collapse: collapse;" align="center">
+<table style="width:100%; border-collapse: collapse; max-width: 1200px; margin: 0 auto;" align="center">
+  
+  <!-- Ligne 1 -->
   <tr>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.inchaate.com/" target="_blank">
-        <img src="https://www.inchaate.com/assets/icons/logo.webp" width="60" height="35" alt="Inchaate"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.maison-presto.com/" target="_blank">
+        <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" alt="Maison Presto" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://lightslategray-nightingale-538581.hostingersite.com/" target="_blank">
-        <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo-footer.webp" width="70" height="35" alt="Hosting Site"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.mur-mur.fr/" target="_blank">
+        <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" alt="Mur-Mur" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://ab-pro.fr/" target="_blank">
-        <img src="https://ab-pro.fr/assets/images/logo.webp" width="70" height="35" alt="AB Pro"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.architectis.fr/" target="_blank">
+        <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" alt="Architectis" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.mesmurs.fr/" target="_blank">
-        <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25" alt="Mes Murs"/>
-      </a>
-    </td>
-    <td colspan="10" align="center" style="padding: 8px;">
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
       <a href="https://www.mur-et-tremie.com/" target="_blank">
-        <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40" alt="Mur et Trémie"/>
+        <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" alt="Mur et Trémie" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://yellow-lobster-107594.hostingersite.com/" target="_blank">
-        <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70" height="35" alt="Yellow Lobster"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.mesmurs.fr/" target="_blank">
+        <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" alt="Mes Murs" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.gex-batiment.com/" target="_blank">
-        <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60" height="35" alt="Gex Batiment"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.open-mur.com/" target="_blank">
+        <img src="https://www.open-mur.com/assets/logo-op.webp" alt="Open Mur" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://eneahome.com/" target="_blank">
-        <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40" alt="Enea Home"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://enirop.com/" target="_blank">
+        <img src="https://www.enirop.com/assets/images/Logo-enirop.webp" alt="Enirop" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.ab-engineering.fr/" target="_blank">
-        <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" height="50" alt="AB Engineering"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.inchaate.fr/" target="_blank">
+        <img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" alt="Inchaate" style="height:50px; object-fit:contain;">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.finky-consulting.com/" target="_blank">
+        <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" alt="Finky Consulting" style="height:50px; object-fit:contain;">
       </a>
     </td>
   </tr>
 
   <!-- Ligne 2 -->
   <tr>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://global-reno.com/" target="_blank">
-        <img src="https://www.global-reno.com/assets/reno-global-logo.webp" width="73" height="28" alt="Global Reno"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://sopranet.com/" target="_blank">
+        <img src="https://www.sopranet.com/assets/images/home/logo-sopranet.webp" alt="Sopranet" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.giovanni-juvara.com/" target="_blank">
-        <img src="https://www.giovanni-juvara.com/assets/images/logofooter.webp" width="60" height="40" alt="Giovanni Juvara"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://reno-deco.fr/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" alt="Reno Deco" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://agexis.com/" target="_blank">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40" alt="Agexis"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://1001-architectures.fr/" target="_blank">
+        <img src="https://1001-architectures.com/assets/icons/logo.webp" alt="1001 Architectures" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.wellton-consulting.com/" target="_blank">
-        <img src="https://www.wellton-consulting.com/assets/icons/footer-logo.webp" width="70" height="40" alt="Wellton Consulting"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.eneahome.com/" target="_blank">
+        <img src="https://www.eneahome.com/icons/logo.webp" alt="Enea Home" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.finky-consulting.com/" target="_blank">
-        <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70" height="35" alt="Finky Consulting"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.ab-engineering.fr/" target="_blank">
+        <img src="https://www.ab-engineering.fr/assets/logo.webp" alt="AB Engineering" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.welldup.com/" target="_blank">
-        <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="50" height="40" alt="Welldup"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.agexis.com/" target="_blank">
+        <img src="https://www.agexis.com/assets/icons/logo-agex.webp" alt="Agexis" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.open-mur.com/" target="_blank">
-        <img src="https://www.open-mur.com/assets/logo-op.webp" width="60" height="50" alt="Open Mur"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.agexea-energie.com/" target="_blank">
+        <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" alt="Agexea Energie" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.structural-metal.com/" target="_blank">
-        <img src="https://www.structural-metal.com/images/logo.webp" width="70" height="50" alt="Structural Metal"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.linkea-consulting.fr/" target="_blank">
+        <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" alt="Linkea Consulting" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://mur-mur.fr/" target="_blank">
-        <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="70" height="50" alt="Mur-Mur"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="http://utopik-communication.fr/" target="_blank">
+        <img src="https://utopik-communication.fr/assets/icons/logo.webp" alt="Utopik Communication" style="height:50px; object-fit:contain;">
       </a>
     </td>
   </tr>
 
   <!-- Ligne 3 -->
   <tr>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://1001-architectures.fr/" target="_blank">
-        <img src="https://1001-architectures.com/assets/icons/logo.webp" width="73" height="30" alt="1001 Architectures"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="http://strategys-tunisie.com/" target="_blank">
+        <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" alt="Strategys Tunisie" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.spacy-and-cosy.com/" target="_blank">
-        <img src="https://www.spacy-and-cosy.com/Images/spacy-and-cosy-logo.webp" width="60" height="40" alt="Spacy and Cosy"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.enea-construction.com/" target="_blank">
+        <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" alt="ENEA Construction" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.sybernetys-international.com/" target="_blank">
+        <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" alt="Sybernetys International" style="height:50px; object-fit:contain;">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.klass-design.fr/" target="_blank">
+        <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" alt="Klass Design" style="height:50px; object-fit:contain;">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
       <a href="https://www.renov-en-main.fr/" target="_blank">
-        <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40" alt="Renov en Main"/>
+        <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" alt="Renov en Main" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.inchaate.fr/" target="_blank">
-        <img src="https://inchaate.fr/assets/icons/inchaate-logo.webp" width="70" height="35" alt="Inchaate France"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.ikonoklass.fr/" target="_blank">
+        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" alt="Ikonoklass" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://facilitys-international.fr/" target="_blank">
-        <img src="https://facilitys-international.fr/assets/images/home/logo.webp" width="60" height="35" alt="Facilitys International"/>
+    <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
+      <a href="https://www.wellton-consulting.com/" target="_blank">
+        <img src="https://www.wellton-consulting.com/assets/images/logo.webp" alt="Wellton Consulting" style="height:50px; object-fit:contain;">
       </a>
     </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://www.linkea-consulting.fr/" target="_blank">
-        <img src="https://www.linkea-consulting.fr/assets/icons/logoWhite.webp" width="60" height="20" alt="Linkea Consulting"/>
-      </a>
-    </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://pink-antelope-778957.hostingersite.com/" target="_blank">
-        <img src="https://pink-antelope-778957.hostingersite.com/assets/logo-luxury&osywhite.webp" width="40" height="40" alt="Luxury & Cosy"/>
-      </a>
-    </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://ghostwhite-beaver-862090.hostingersite.com/" target="_blank">
-        <img src="https://ghostwhite-beaver-862090.hostingersite.com/assets/icons/logo.webp" width="70" height="30" alt="Ghostwhite Beaver"/>
-      </a>
-    </td>
-    <td colspan="10" align="center" style="padding: 8px;">
-      <a href="https://reno-deco.fr/" target="_blank">
-        <img src="https://reno-deco.fr/assets/icons/logo.webp" width="70" height="35" alt="Reno Deco"/>
-      </a>
-    </td>
+
   </tr>
 
-  <!-- Pied de tableau -->
-  <tr>
-    <td colspan="90" align="center" style="padding: 15px; border-top: 2px solid #e0e0e0;">
-      <b>✨ 27 projets réalisés</b> • Développement web • UI/UX Design
-    </td>
-  </tr>
 </table>
 
-<div align="center">
-  <br>
-  <sub>⬆️ Cliquez sur un logo pour visiter le site</sub>
-</div>
 -------
 
 ### 🛠️ Tech Stack
