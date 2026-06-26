@@ -33,7 +33,7 @@
   <!-- Ligne 1 -->
   <tr>
     <td align="center" style="padding: 10px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef;">
-      <a href="https://www.maison-presto.com/" target="_blank">
+      <a href="https://www.maison-presto.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" alt="Maison Presto" style="height:50px; object-fit:contain;">
       </a>
     </td>
